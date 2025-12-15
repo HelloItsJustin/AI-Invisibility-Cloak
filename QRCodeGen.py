@@ -24,5 +24,5 @@ img_toggle = qr_toggle.make_image(fill_color="black", back_color="white")
 img_toggle.save('toggle.png')
 print("✓ Created: toggle.png")
 
-print("\n✅ All QR codes generated successfully!")
+print("\n All QR codes generated successfully!")
 print("Files saved: cloak_on.png, cloak_off.png, toggle.png")
